@@ -1,5 +1,7 @@
 # Side-channel attack
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 This is a curated list for side-channel attack!
 
 - [**Side-channel attacks**](#side-channel-attack)
