@@ -36,7 +36,7 @@ This is a curated list for side-channel attack!
 * [Jlsca](https://github.com/Riscure/Jlsca) - Side-channel toolkit in Julia. [[Tutorial](https://github.com/ikizhvatov/jlsca-tutorials)]
 * [Pysca](https://github.com/ikizhvatov/pysca) - Toolbox for advanced differential power analysis of symmetric key cryptographic algorithm implementations
 * [Pyecsca](https://github.com/J08nY/pyecsca) - Python Elliptic Curve Side-Channel Analysis toolkit.
-* [Scared](https://github.com/eshard/scared) - Scared is a side-channel analysis framework.
+* [Scared](https://gitlab.com/eshard/scared) - Scared is a side-channel analysis framework.
 * [Rainbow](https://github.com/Ledger-Donjon/rainbow) - Makes Unicorn traces. Generic Side-Channel and Fault Injection simulator
 * [Screaming_channels](https://github.com/eurecom-s3/screaming_channels) - Radio Side-Channels in Mixed-Signal Chips
 * [SCA toolbox](https://github.com/AISyLab/side-channel-analysis-toolbox) - Allows known side-channel attacks to be run
