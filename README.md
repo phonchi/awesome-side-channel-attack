@@ -17,6 +17,10 @@ This is a curated list for side-channel attack!
 * [Power Side-Channel Attack Analysis: A Review of 20 Years of Study for the Layman](https://www.mdpi.com/2410-387X/4/2/15)
 * [Introduction to differential power analysis](https://link.springer.com/article/10.1007/s13389-011-0006-y)
 
+## Tutorials
+* [Chipwhisperer wiki](https://wiki.newae.com/Main_Page)
+* [SCAAML AES side-channel attacks tutorial](https://github.com/google/scaaml/tree/master/scaaml_intro)
+ 
 ## [Leakage Assesment](http://reassure.eu/leakage-detection-tutorial/)
 * [A testing methodology for side-channel resistance validation](https://csrc.nist.gov/csrc/media/events/non-invasive-attack-testing-workshop/documents/08_goodwill.pdf)
 * [Leakage Assessment Methodology](https://www.iacr.org/archive/ches2015/92930478/92930478.pdf)
