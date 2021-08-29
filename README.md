@@ -38,7 +38,8 @@ This is a curated list for side-channel attack!
 * [Pyecsca](https://github.com/J08nY/pyecsca) - Python Elliptic Curve Side-Channel Analysis toolkit.
 * [Scared](https://github.com/eshard/scared) - Scared is a side-channel analysis framework.
 * [Rainbow](https://github.com/Ledger-Donjon/rainbow) - Makes Unicorn traces. Generic Side-Channel and Fault Injection simulator
-* [Screaming_channels](https://github.com/eurecom-s3/screaming_channels) -Radio Side-Channels in Mixed-Signal Chips
+* [Screaming_channels](https://github.com/eurecom-s3/screaming_channels) - Radio Side-Channels in Mixed-Signal Chips
+* [SCA toolbox](https://github.com/AISyLab/side-channel-analysis-toolbox) - Allows known side-channel attacks to be run
 
 ## Database
 * [ASCAD](https://github.com/ANSSI-FR/ASCAD) - Databases that aims at providing a benchmarking reference for the SCA community
