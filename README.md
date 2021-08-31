@@ -17,6 +17,10 @@ This is a curated list for side-channel attack!
 * [Power Side-Channel Attack Analysis: A Review of 20 Years of Study for the Layman](https://www.mdpi.com/2410-387X/4/2/15)
 * [Introduction to differential power analysis](https://link.springer.com/article/10.1007/s13389-011-0006-y)
 
+## Tutorials
+* [Chipwhisperer wiki](https://wiki.newae.com/Main_Page)
+* [SCAAML AES side-channel attacks tutorial](https://github.com/google/scaaml/tree/master/scaaml_intro)
+ 
 ## [Leakage Assesment](http://reassure.eu/leakage-detection-tutorial/)
 * [A testing methodology for side-channel resistance validation](https://csrc.nist.gov/csrc/media/events/non-invasive-attack-testing-workshop/documents/08_goodwill.pdf)
 * [Leakage Assessment Methodology](https://www.iacr.org/archive/ches2015/92930478/92930478.pdf)
@@ -32,9 +36,10 @@ This is a curated list for side-channel attack!
 * [Jlsca](https://github.com/Riscure/Jlsca) - Side-channel toolkit in Julia. [[Tutorial](https://github.com/ikizhvatov/jlsca-tutorials)]
 * [Pysca](https://github.com/ikizhvatov/pysca) - Toolbox for advanced differential power analysis of symmetric key cryptographic algorithm implementations
 * [Pyecsca](https://github.com/J08nY/pyecsca) - Python Elliptic Curve Side-Channel Analysis toolkit.
-* [Scared](https://github.com/eshard/scared) - Scared is a side-channel analysis framework.
+* [Scared](https://gitlab.com/eshard/scared) - Scared is a side-channel analysis framework.
 * [Rainbow](https://github.com/Ledger-Donjon/rainbow) - Makes Unicorn traces. Generic Side-Channel and Fault Injection simulator
-* [Screaming_channels](https://github.com/eurecom-s3/screaming_channels) -Radio Side-Channels in Mixed-Signal Chips
+* [Screaming_channels](https://github.com/eurecom-s3/screaming_channels) - Radio Side-Channels in Mixed-Signal Chips
+* [SCA toolbox](https://github.com/AISyLab/side-channel-analysis-toolbox) - Allows known side-channel attacks to be run
 
 ## Database
 * [ASCAD](https://github.com/ANSSI-FR/ASCAD) - Databases that aims at providing a benchmarking reference for the SCA community
