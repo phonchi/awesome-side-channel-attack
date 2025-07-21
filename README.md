@@ -36,25 +36,24 @@ This is a curated list for side-channel attack!
 * [COSADE: Constructive Side-Channel Analysis and Secure Design](https://www.cosade.org/)
 * [CHES: Cryptographic Hardware and Embedded Systems](https://ches.iacr.org/)
 
-## Project
-* [REASSURE](http://reassure.eu/)
-
 # Software
 * [SCALib](https://github.com/simple-crypto/SCALib) - A Python library that contains state-of-the-art tools for side-channel security evaluation
 * [ChipWhisperer](https://github.com/newaetech/chipwhisperer) -  An easy to use framework that implements a complete pipeline for power analysis attack
 * [ChipSHOUTER](https://github.com/newaetech/ChipSHOUTER) -  The Electromagnetic Fault Injection (EMFI) Platform
 * [Lascar](https://github.com/Ledger-Donjon/lascar) - Ledger's Advanced Side-Channel Analysis Repository
 * [Daredevil](https://github.com/SideChannelMarvels/Daredevil) - A tool to perform (higher-order) correlation power analysis attacks (CPA)
-* [Jlsca](https://github.com/Riscure/Jlsca) - Side-channel toolkit in Julia. [[Tutorial](https://github.com/ikizhvatov/jlsca-tutorials)]
+* [Jlsca](https://github.com/Keysight/Jlsca) - Side-channel toolkit in Julia. [[Tutorial](https://github.com/ikizhvatov/jlsca-tutorials)]
 * [Pysca](https://github.com/ikizhvatov/pysca) - Toolbox for advanced differential power analysis of symmetric key cryptographic algorithm implementations
 * [Pyecsca](https://github.com/J08nY/pyecsca) - Python Elliptic Curve Side-Channel Analysis toolkit
 * [Scared](https://gitlab.com/eshard/scared) - Scared is a side-channel analysis framework
 * [Rainbow](https://github.com/Ledger-Donjon/rainbow) - Makes Unicorn traces. Generic Side-Channel and Fault Injection simulator
 * [Screaming_channels](https://github.com/eurecom-s3/screaming_channels) - Radio Side-Channels in Mixed-Signal Chips
 * [SCA toolbox](https://github.com/AISyLab/side-channel-analysis-toolbox) - Allows known side-channel attacks to be run
+* [SCAAML](https://github.com/google/scaaml) -  a deep learning framework dedicated to side-channel attacks
+* [PROLEAD](https://github.com/ChairImpSec/PROLEAD) - A Probing-Based Leakage Detection Tool for Hardware and Software
 
 # Hardware
-* [Chipwhisperer](https://rtfm.newae.com/) - A complete open-source toolchain for side-channel power analysis and glitching attacks
+* [Chipwhisperer](https://chipwhisperer.readthedocs.io/en/latest/) - A complete open-source toolchain for side-channel power analysis and glitching attacks
 * [SakuraG](http://www.troche.com/sakura/sakura.html) - Various experimental hardware were developed to contribute to reseach on physical security analysis of cryptographic modules
 * [FOBOS](https://cryptography.gmu.edu/documentation/fobos3/index.html) - It is an "acquisition to analysis" solution which includes all necessary software to control the device under test
 
