@@ -21,7 +21,7 @@ This is a curated list for side-channel attack!
 * [Chipwhisperer wiki](https://chipwhisperer.readthedocs.io/en/latest/)
 * [SCAAML AES side-channel attacks tutorial](https://github.com/google/scaaml/tree/master/scaaml_intro)
  
-## [Leakage Assesment](http://reassure.eu/leakage-detection-tutorial/)
+## [Leakage Assesment](https://cescalab.cs.ru.nl/hypothesis-testing-for-leakage-assessment-in-side-channel-analysis/)
 * [A testing methodology for side-channel resistance validation](https://csrc.nist.gov/csrc/media/events/non-invasive-attack-testing-workshop/documents/08_goodwill.pdf)
 * [Leakage Assessment Methodology](https://www.iacr.org/archive/ches2015/92930478/92930478.pdf)
 * [Leakage Detection with the x2-Test](https://tches.iacr.org/index.php/TCHES/article/view/838)
