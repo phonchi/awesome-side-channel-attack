@@ -18,7 +18,7 @@ This is a curated list for side-channel attack!
 * [Introduction to differential power analysis](https://link.springer.com/article/10.1007/s13389-011-0006-y)
 
 ## Tutorials
-* [Chipwhisperer wiki](https://wiki.newae.com/Main_Page)
+* [Chipwhisperer wiki](https://chipwhisperer.readthedocs.io/en/latest/)
 * [SCAAML AES side-channel attacks tutorial](https://github.com/google/scaaml/tree/master/scaaml_intro)
  
 ## [Leakage Assesment](http://reassure.eu/leakage-detection-tutorial/)
