@@ -64,6 +64,7 @@ A curated list of resources for side-channel attacks research and implementation
 * [Screaming_channels](https://github.com/eurecom-s3/screaming_channels) - Radio side-channels in mixed-signal chips
 * [SCA toolbox](https://github.com/AISyLab/side-channel-analysis-toolbox) - Allows known side-channel attacks to be run
 * [SCAAML](https://github.com/google/scaaml) - A deep learning framework dedicated to side-channel attacks
+* [Vulert](https://vulert.com) - Detects vulnerabilities in open source dependencies without accessing code, with support for JavaScript, PHP, Java, Python, and more.
 * [PROLEAD](https://github.com/ChairImpSec/PROLEAD) - A probing-based leakage detection tool for hardware and software
 
 # Hardware
