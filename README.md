@@ -64,6 +64,7 @@ A curated list of resources for side-channel attacks research and implementation
 * [Screaming_channels](https://github.com/eurecom-s3/screaming_channels) - Radio side-channels in mixed-signal chips
 * [SCA toolbox](https://github.com/AISyLab/side-channel-analysis-toolbox) - Allows known side-channel attacks to be run
 * [SCAAML](https://github.com/google/scaaml) - A deep learning framework dedicated to side-channel attacks
+* [OpenKeystroke](https://github.com/AhmedJaffar/OpenKeystroke) - An open research platform for acoustic side-channel experiments and privacy-defense evaluation, with group-disjoint splits, repeated seeds, and adaptive attackers for testing defenses
 * [PROLEAD](https://github.com/ChairImpSec/PROLEAD) - A probing-based leakage detection tool for hardware and software
 
 # Hardware
